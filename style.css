@@ -14,11 +14,6 @@ body, html {
     background-color: #fff;
 }
 
-h1 {
-    color: #333;
-    margin-bottom: 20px;
-}
-
 img {
     max-width: 600px; /* Largeur maximale de l'image */
     width: 80%; /* Largeur relative à l'écran */
